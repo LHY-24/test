@@ -25,7 +25,6 @@ print(list(filter(lambda x: x.islower(), list_word)))
 
 import os
 print(os.path.join(os.path.dirname(__file__),))
-print("Hello")
 
 # 参考链接：
 # 1.python 中的 filter() 函数——用于过滤序列，过滤掉不符合条件的元素，返回符合条件的元素组成新列表
